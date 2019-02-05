@@ -1,0 +1,28 @@
+D:\Anjana\MyProjects\Work\Other\MedicalCenterMS\Server\MCMS\MCMS\bin\Debug\netcoreapp2.1\MCMS.deps.json
+D:\Anjana\MyProjects\Work\Other\MedicalCenterMS\Server\MCMS\MCMS\bin\Debug\netcoreapp2.1\MCMS.runtimeconfig.json
+D:\Anjana\MyProjects\Work\Other\MedicalCenterMS\Server\MCMS\MCMS\bin\Debug\netcoreapp2.1\MCMS.runtimeconfig.dev.json
+D:\Anjana\MyProjects\Work\Other\MedicalCenterMS\Server\MCMS\MCMS\bin\Debug\netcoreapp2.1\MCMS.dll
+D:\Anjana\MyProjects\Work\Other\MedicalCenterMS\Server\MCMS\MCMS\bin\Debug\netcoreapp2.1\MCMS.pdb
+D:\Anjana\MyProjects\Work\Other\MedicalCenterMS\Server\MCMS\MCMS\obj\Debug\netcoreapp2.1\MCMS.csproj.CoreCompileInputs.cache
+D:\Anjana\MyProjects\Work\Other\MedicalCenterMS\Server\MCMS\MCMS\obj\Debug\netcoreapp2.1\MCMS.RazorAssemblyInfo.cache
+D:\Anjana\MyProjects\Work\Other\MedicalCenterMS\Server\MCMS\MCMS\obj\Debug\netcoreapp2.1\MCMS.RazorAssemblyInfo.cs
+D:\Anjana\MyProjects\Work\Other\MedicalCenterMS\Server\MCMS\MCMS\obj\Debug\netcoreapp2.1\MCMS.AssemblyInfoInputs.cache
+D:\Anjana\MyProjects\Work\Other\MedicalCenterMS\Server\MCMS\MCMS\obj\Debug\netcoreapp2.1\MCMS.AssemblyInfo.cs
+D:\Anjana\MyProjects\Work\Other\MedicalCenterMS\Server\MCMS\MCMS\obj\Debug\netcoreapp2.1\MCMS.RazorTargetAssemblyInfo.cache
+D:\Anjana\MyProjects\Work\Other\MedicalCenterMS\Server\MCMS\MCMS\obj\Debug\netcoreapp2.1\MCMS.dll
+D:\Anjana\MyProjects\Work\Other\MedicalCenterMS\Server\MCMS\MCMS\obj\Debug\netcoreapp2.1\MCMS.pdb
+D:\Anjana\MyProjects\Work\Other\MedicalCenterMS\Server\MCMS\MCMS\obj\Debug\netcoreapp2.1\MCMS.csprojAssemblyReference.cache
+F:\New folder\Server\MCMS\MCMS\bin\Debug\netcoreapp2.1\MCMS.deps.json
+F:\New folder\Server\MCMS\MCMS\bin\Debug\netcoreapp2.1\MCMS.runtimeconfig.json
+F:\New folder\Server\MCMS\MCMS\bin\Debug\netcoreapp2.1\MCMS.runtimeconfig.dev.json
+F:\New folder\Server\MCMS\MCMS\bin\Debug\netcoreapp2.1\MCMS.dll
+F:\New folder\Server\MCMS\MCMS\bin\Debug\netcoreapp2.1\MCMS.pdb
+F:\New folder\Server\MCMS\MCMS\obj\Debug\netcoreapp2.1\MCMS.csproj.CoreCompileInputs.cache
+F:\New folder\Server\MCMS\MCMS\obj\Debug\netcoreapp2.1\MCMS.RazorAssemblyInfo.cache
+F:\New folder\Server\MCMS\MCMS\obj\Debug\netcoreapp2.1\MCMS.RazorAssemblyInfo.cs
+F:\New folder\Server\MCMS\MCMS\obj\Debug\netcoreapp2.1\MCMS.AssemblyInfoInputs.cache
+F:\New folder\Server\MCMS\MCMS\obj\Debug\netcoreapp2.1\MCMS.AssemblyInfo.cs
+F:\New folder\Server\MCMS\MCMS\obj\Debug\netcoreapp2.1\MCMS.RazorTargetAssemblyInfo.cache
+F:\New folder\Server\MCMS\MCMS\obj\Debug\netcoreapp2.1\MCMS.dll
+F:\New folder\Server\MCMS\MCMS\obj\Debug\netcoreapp2.1\MCMS.pdb
+F:\New folder\Server\MCMS\MCMS\obj\Debug\netcoreapp2.1\MCMS.csprojAssemblyReference.cache
